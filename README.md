@@ -17,3 +17,4 @@ This production planning optimization project demonstrates a comprehensive linea
 
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/fed1f413-4c86-4440-8ddd-328847131cff)
